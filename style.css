@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #121f41;
+}
+/*navbar*/
+.navbar {
+  background-color: #27488d !important;
+  padding-bottom: 20px;
+}
+/* banner*/
+.banner {
+  background-color: #121f41;
+  color: #ffffff;
+  height: auto;
+  .h-text {
+    padding-top: 160px;
+  }
+  .col-md-8 {
+    padding-left: 8%;
+  }
+  .d-text {
+    padding-bottom: 30px;
+  }
+}
+.buttons {
+  padding-top: 50px;
+}
+/*banner end*/
+
+/* block*/
+.block {
+  background-color: #121f41;
+  color: #ffffff;
+}
+
+/*block end*/
+
+/*music list */
+.music {
+  background-color: #121f41;
+  padding-top: 50px;
+}
+.picture {
+  background-color: #121f41;
+  padding-top: 50px;
+}
+/* subscribe */
+.subscribe p {
+  color: #ffffff;
+}
+.subscribe {
+  background-color: #121f41;
+}
